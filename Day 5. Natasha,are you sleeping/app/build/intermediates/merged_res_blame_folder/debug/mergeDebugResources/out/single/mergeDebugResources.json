@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable-xxxhdpi_aface8ae6a0c7f3d7c23f81e2ba16059.jpg.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable-xxxhdpi/aface8ae6a0c7f3d7c23f81e2ba16059.jpg"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable-xxxhdpi_cat_forth.jpg.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable-xxxhdpi/cat_forth.jpg"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.natasha.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.natasha.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable-xxhdpi_cat_one.jpg.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable-xxhdpi/cat_one.jpg"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable-xxhdpi_cat_three.jpg.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable-xxhdpi/cat_three.jpg"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable-xxhdpi_cat_two.jpg.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable-xxhdpi/cat_two.jpg"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/dmitriy/.gradle/daemon/8.7/com.example.natasha.app-main-33:/drawable/ic_launcher_foreground.xml"
+    }
+]

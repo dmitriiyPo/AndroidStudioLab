@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back_layout">#F5F5DC</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Natasha</string>
+    <string name="description_left_bottom_text">A cat in the left-bottom corner</string>
+    <string name="description_left_up_text">A cat in the left-up corner</string>
+    <string name="description_right_bottom_text">A cat in the right-bottom corner</string>
+    <string name="description_right_up_text">A cat in the right-up corner</string>
+    <string name="first_text">Наташ, ты спишь?</string>
+    <string name="forth_text">Мы уронили вообще всё, Наташ, честно</string>
+    <string name="second_text">Уже 6 часов утра, Наташ</string>
+    <string name="third_text">Вставай, мы там всё уронили</string>
+    <style name="Base.Theme.Natasha" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Natasha" parent="Base.Theme.Natasha"/>
+</resources>
